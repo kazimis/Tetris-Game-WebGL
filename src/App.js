@@ -16,7 +16,8 @@ function App() {
   // useScript("./robotArm.js", "rb");
   return (
     <>
-      <h1>Tetrist Game</h1>
+      <h1>Tetris Game</h1>
+      <p> Website under maintenance </p>
     </>
   );
 }
